@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://passagemturno.inframerica.aero/",
+    "rules": [
+      {
+        "selector": "[name='Turno']",
+        "value": "A"
+      },
+      {
+        "selector": "[name='Pier_Sul']",
+        "value": "1) 8:35 - 9:50→ # Realizado a ronda e os equipamentos se encontram operacionais. "
+      },
+      {
+        "selector": "[name='Pier_Norte']",
+        "value": "1) 8:35 - 9:14→ # Realizado a ronda e os equipamentos se encontram operacionais. "
+      },
+      {
+        "selector": "[name='Corpo_Central']",
+        "value": "1) 8:35 - 9:14→ # Realizado a ronda e os equipamentos se encontram operacionais. "
+      },
+      {
+        "selector": "[name='Check_in']",
+        "value": "1) 8:35 - 9:14→ # Realizado a ronda e os equipamentos se encontram operacionais. "
+      },
+      {
+        "selector": "[name='Terminal_1']",
+        "value": "1) 8:35 - 9:14→ # Realizado a ronda e os equipamentos se encontram operacionais. "
+      },
+      {
+        "selector": "[name='Sala_VIP']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='CPD_Novo']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='SITA']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='VPNCCEE']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='VPNCEB']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='Wifi']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='OutrosRonda']",
+        "value": "Sem ocorrências."
+      },
+      {
+        "selector": "[name='OutrosGeral']",
+        "value": "Sem ocorrências."
+      }
+    ]
+  }
+]
