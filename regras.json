@@ -1,19 +1,19 @@
-### AUTOFILL PROFILES ###,,,,,,
-Profile ID,Name,Site,Hotkey,,,
-c5,"Passagem","passagemturno.inframerica.aero/","",,,
-### AUTOFILL RULES ###,,,,,,
-Rule ID,Type,Name,Value,Site,Mode,Profile
-r36,2,"""Turno""","""A""","",1,c5
-r37,0,"""Pier_Sul""","1) 8:35 - 9:50→ # Realizado a ronda e os equipamentos se encontram operacionais. ","",1,c5
-r38,0,"""Pier_Norte""","1) 8:35 - 9:14â→ # Realizado a ronda e os equipamentos se encontram operacionais. ","",1,c5
-r39,0,"""Corpo_Central""","1) 8:35 - 9:14â→ # Realizado a ronda e os equipamentos se encontram operacionais. ","",1,c5
-r40,0,"""Check_in""","1) 8:35 - 9:14â→ # Realizado a ronda e os equipamentos se encontram operacionais. ","",1,c5
-r41,0,"""Terminal_1""","1) 8:35 - 9:14â→ # Realizado a ronda e os equipamentos se encontram operacionais. ","",1,c5
-r42,0,"""Sala_VIP""","Sem ocorrências.","",1,c5
-r43,0,"""CPD_Novo""","Sem ocorrências.","",1,c5
-r44,0,"""SITA""","Sem ocorrências.","",1,c5
-r45,0,"""VPNCCEE""","Sem ocorrências.","",1,c5
-r46,0,"""VPNCEB""","Sem ocorrências.","",1,c5
-r47,0,"""Wifi""","Sem ocorrências.","",1,c5
-r48,0,"""OutrosRonda""","Sem ocorrências.","",1,c5
-r49,0,"""OutrosGeral""","Sem ocorrências.","",1,c5
+### UTOFILL PROFILES ###,,,,,,
+Profile ID,Nme,Site,Hotkey,,,
+c5,"Pssgem","pssgemturno.infrmeric.ero/","",,,
+### UTOFILL RULES ###,,,,,,
+Rule ID,Type,Nme,Vlue,Site,Mode,Profile
+r36,2,"""Turno""","""""","",1,c5
+r37,0,"""Pier_Sul""","1) 8:35 - 9:50→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r38,0,"""Pier_Norte""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r39,0,"""Corpo_Centrl""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r40,0,"""Check_in""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r41,0,"""Terminl_1""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r42,0,"""Sl_VIP""","Sem ocorrêncis.","",1,c5
+r43,0,"""CPD_Novo""","Sem ocorrêncis.","",1,c5
+r44,0,"""SIT""","Sem ocorrêncis.","",1,c5
+r45,0,"""VPNCCEE""","Sem ocorrêncis.","",1,c5
+r46,0,"""VPNCEB""","Sem ocorrêncis.","",1,c5
+r47,0,"""Wifi""","Sem ocorrêncis.","",1,c5
+r48,0,"""OutrosRond""","Sem ocorrêncis.","",1,c5
+r49,0,"""OutrosGerl""","Sem ocorrêncis.","",1,c5
