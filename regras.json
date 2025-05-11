@@ -5,10 +5,10 @@ c5,"Pssgem","pssgemturno.infrmeric.ero/","",,,
 Rule ID,Type,Nme,Vlue,Site,Mode,Profile
 r36,2,"""Turno""","""""","",1,c5
 r37,0,"""Pier_Sul""","1) 8:35 - 9:50→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
-r38,0,"""Pier_Norte""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
-r39,0,"""Corpo_Centrl""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
-r40,0,"""Check_in""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
-r41,0,"""Terminl_1""","1) 8:35 - 9:14→ # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r38,0,"""Pier_Norte""","1) 8:35 - 9:14 → # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r39,0,"""Corpo_Centrl""","1) 8:35 - 9:14 → # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r40,0,"""Check_in""","1) 8:35 - 9:14 → # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
+r41,0,"""Terminl_1""","1) 8:35 - 9:14 → # Relizdo rond e os equipmentos se encontrm opercionis. ","",1,c5
 r42,0,"""Sl_VIP""","Sem ocorrêncis.","",1,c5
 r43,0,"""CPD_Novo""","Sem ocorrêncis.","",1,c5
 r44,0,"""SIT""","Sem ocorrêncis.","",1,c5
