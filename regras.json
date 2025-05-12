@@ -1,19 +1,20 @@
-### UTOFILL PROFILES ###,,,,,,
-Profile ID,Nme,Site,Hotkey,,,
-c5,"Pssgem","pssgemturno.infrmeric.ero/","",,,
-### UTOFILL RULES ###,,,,,,
-Rule ID,Type,Nme,Vlue,Site,Mode,Profile
-r36,2,"""Turno""","""""","",1,c5
-r37,0,"""Pier_Sul""","1) 8:35 - 9:50→ # Realizado ronda e os equipamentos se encontram operacionais. ","",1,c5
-r38,0,"""Pier_Norte""","1) 8:35 - 9:14→ # Realizado ronda e os equipamentos se encontram operacionais. ","",1,c5
-r39,0,"""Corpo_Centrl""","1) 8:35 - 9:14→ # Realizado ronda e os equipamentos se encontram operacionais. ","",1,c5
-r40,0,"""Check_in""","1) 8:35 - 9:14→ # Realizado ronda e os equipamentos se encontram operacionais. ","",1,c5
-r41,0,"""Terminl_1""","1) 8:35 - 9:14→ # Realizado ronda e os equipamentos se encontram operacionais. ","",1,c5
-r42,0,"""Sl_VIP""","Sem ocorrêncis.","",1,c5
-r43,0,"""CPD_Novo""","Sem ocorrêncis.","",1,c5
-r44,0,"""SIT""","Sem ocorrêncis.","",1,c5
-r45,0,"""VPNCCEE""","1) 9:14 - 11:22→ # 35887 Realizado todas as configurações da nuc do Power BI e Flightradar, operacional.","",1,c5
-r46,0,"""VPNCEB""","Sem ocorrêncis.","",1,c5
-r47,0,"""Wifi""","Sem ocorrêncis.","",1,c5
-r48,0,"""OutrosRond""","1) 7:31 - 8:25→ # 35884 Realizado a configuração de 3 scanners do ED, operacional.","",1,c5
-r49,0,"""OutrosGerl""","1) 9:20 - 9:30→ # 35886 Conforme solicitado foi verificar o desktop sala da Azul atrás dos chekins, o problema está no horário do sistema operacional, colaborador orientado a entrar em contato com a sita para realizar a correção.","",1,c5
+### AUTOFILL PROFILES ###,,,,,,
+Profile ID,Name,Site,Hotkey,,,
+c6,"PASS","passagemturno.inframerica.aero/","",,,
+### AUTOFILL RULES ###,,,,,,
+Rule ID,Type,Name,Value,Site,Mode,Profile
+r50,3,"""chkSubmit""","1","",1,c6
+r51,2,"""Turno""","""A""","",1,c6
+r52,0,"""Pier_Sul""","Sem ocorrÃªncias.","",1,c6
+r53,0,"""Pier_Norte""","Sem ocorrÃªncias.","",1,c6
+r54,0,"""Corpo_Central""","Sem ocorrÃªncias.","",1,c6
+r55,0,"""Check_in""","Sem ocorrÃªncias.","",1,c6
+r56,0,"""Terminal_1""","Sem ocorrÃªncias.","",1,c6
+r57,0,"""Sala_VIP""","Sem ocorrÃªncias.","",1,c6
+r58,0,"""CPD_Novo""","Sem ocorrÃªncias.","",1,c6
+r59,0,"""SITA""","Sem ocorrÃªncias.","",1,c6
+r60,0,"""VPNCCEE""","Sem ocorrÃªncias.","",1,c6
+r61,0,"""VPNCEB""","Sem ocorrÃªncias.","",1,c6
+r62,0,"""Wifi""","Sem ocorrÃªncias.","",1,c6
+r63,0,"""OutrosRonda""","Sem ocorrÃªncias.","",1,c6
+r64,0,"""OutrosGeral""","Sem ocorrÃªncias.","",1,c6
