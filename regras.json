@@ -5,16 +5,16 @@ c6,"PASS","passagemturno.inframerica.aero/","",,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r50,3,"""chkSubmit""","1","",1,c6
 r51,2,"""Turno""","""A""","",1,c6
-r52,0,"""Pier_Sul""","Sem ocorrÃªncias.","",1,c6
-r53,0,"""Pier_Norte""","Sem ocorrÃªncias.","",1,c6
-r54,0,"""Corpo_Central""","Sem ocorrÃªncias.","",1,c6
-r55,0,"""Check_in""","Sem ocorrÃªncias.","",1,c6
-r56,0,"""Terminal_1""","Sem ocorrÃªncias.","",1,c6
-r57,0,"""Sala_VIP""","Sem ocorrÃªncias.","",1,c6
-r58,0,"""CPD_Novo""","Sem ocorrÃªncias.","",1,c6
-r59,0,"""SITA""","Sem ocorrÃªncias.","",1,c6
-r60,0,"""VPNCCEE""","Sem ocorrÃªncias.","",1,c6
-r61,0,"""VPNCEB""","Sem ocorrÃªncias.","",1,c6
-r62,0,"""Wifi""","Sem ocorrÃªncias.","",1,c6
-r63,0,"""OutrosRonda""","Sem ocorrÃªncias.","",1,c6
-r64,0,"""OutrosGeral""","Sem ocorrÃªncias.","",1,c6
+r52,0,"""Pier_Sul""","1)→ # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r53,0,"""Pier_Norte""","1)→ # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r54,0,"""Corpo_Central""","1)→ # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r55,0,"""Check_in""","1)→ # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r56,0,"""Terminal_1""","1)→ # Realizado a ronda em todo 3º andar, os equipamentos se encontram operacionais.","",1,c6
+r57,0,"""Sala_VIP""","Sem ocorrências.","",1,c6
+r58,0,"""CPD_Novo""","Sem ocorrências.","",1,c6
+r59,0,"""SITA""","Sem ocorrências.","",1,c6
+r60,0,"""VPNCCEE""","Sem ocorrências.","",1,c6
+r61,0,"""VPNCEB""","Sem ocorrências.","",1,c6
+r62,0,"""Wifi""","Sem ocorrências.","",1,c6
+r63,0,"""OutrosRonda""","Sem ocorrências.","",1,c6
+r64,0,"""OutrosGeral""","Sem ocorrências.","",1,c6
