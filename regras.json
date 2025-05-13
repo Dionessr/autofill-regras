@@ -5,16 +5,16 @@ c6,"PASS","passagemturno.inframerica.aero/","",,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r50,3,"""chkSubmit""","1","",1,c6
 r51,2,"""Turno""","""A""","",1,c6
-r52,0,"""Pier_Sul""","(08:08 - 09:45) → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r53,0,"""Pier_Norte""","(08:08 - 09:45) → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r54,0,"""Corpo_Central""","(08:08 - 09:45) → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r55,0,"""Check_in""","(08:08 - 09:45) → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r56,0,"""Terminal_1""","(08:08 - 09:45) → # Realizado a ronda em todo 3º andar, os equipamentos se encontram operacionais.","",1,c6
+r52,0,"""Pier_Sul""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r53,0,"""Pier_Norte""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r54,0,"""Corpo_Central""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r55,0,"""Check_in""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
+r56,0,"""Terminal_1""","08:27 - 10:00 → # Realizado a ronda em todo 3º andar, os equipamentos se encontram operacionais.","",1,c6
 r57,0,"""Sala_VIP""","Sem ocorrências.","",1,c6
 r58,0,"""CPD_Novo""","Sem ocorrências.","",1,c6
 r59,0,"""SITA""","Sem ocorrências.","",1,c6
 r60,0,"""VPNCCEE""","Sem ocorrências.","",1,c6
 r61,0,"""VPNCEB""","Sem ocorrências.","",1,c6
 r62,0,"""Wifi""","Sem ocorrências.","",1,c6
-r63,0,"""OutrosRonda""","(08:08 - 09:45) → # Realizado o acompanhamento técnico","",1,c6
-r64,0,"""OutrosGeral""","Sem ocorrências.","",1,c6
+r63,0,"""OutrosRonda""","1) : - :→ # 35951 Conforme solicitado, foi verificado a nuc do AMS na sala da Azul atrás dos check-ins, o equipamento foi reiniciado, operacional.\n\n2) : - :→ # 35954 Conforme solicitado, foi configurado 2 scanners do ED, operacional.\n\n3) : - :→ # 35950 Foi recolhido uma impressora HP do terminal executivo e instalado uma impressora HP 3050.","",1,c6
+r64,0,"""OutrosGeral""","Solicito ao turno bravo a instalar novos cartuchos na impressora HP 3050 no terminal executivo, os cartuchos se encontram na mesa do todor.","",1,c6
