@@ -1,20 +1,149 @@
+Teste de mudança
 ### AUTOFILL PROFILES ###,,,,,,
 Profile ID,Name,Site,Hotkey,,,
-c6,"PASS","passagemturno.inframerica.aero/","",,,
+c9,"Modelo","passagemturno.inframerica.aero/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
-r50,3,"""chkSubmit""","1","",1,c6
-r51,2,"""Turno""","""A""","",1,c6
-r52,0,"""Pier_Sul""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r53,0,"""Pier_Norte""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r54,0,"""Corpo_Central""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r55,0,"""Check_in""","08:27 - 10:00 → # Realizado a ronda e os equipamentos se encontram operacionais.","",1,c6
-r56,0,"""Terminal_1""","08:27 - 10:00 → # Realizado a ronda em todo 3º andar, os equipamentos se encontram operacionais.","",1,c6
-r57,0,"""Sala_VIP""","Sem ocorrências.","",1,c6
-r58,0,"""CPD_Novo""","Sem ocorrências.","",1,c6
-r59,0,"""SITA""","Sem ocorrências.","",1,c6
-r60,0,"""VPNCCEE""","Sem ocorrências.","",1,c6
-r61,0,"""VPNCEB""","Sem ocorrências.","",1,c6
-r62,0,"""Wifi""","Sem ocorrências.","",1,c6
-r63,0,"""OutrosRonda""","1) : - :→ # 35951 Conforme solicitado, foi verificado a nuc do AMS na sala da Azul atrás dos check-ins, o equipamento foi reiniciado, operacional.\n\n2) : - :→ # 35954 Conforme solicitado, foi configurado 2 scanners do ED, operacional.\n\n3) : - :→ # 35950 Foi recolhido uma impressora HP do terminal executivo e instalado uma impressora HP 3050.","",1,c6
-r64,0,"""OutrosGeral""","Solicito ao turno bravo a instalar novos cartuchos na impressora HP 3050 no terminal executivo, os cartuchos se encontram na mesa do todor.","",1,c6
+r29,0,"""NMPARTICIPANTE""","ADRIANO SOUZA CARDOZO","",1,c9
+r30,3,"""chkSubmit""","1","",1,c9
+r31,2,"""Turno""","""A""","",1,c9
+r32,0,"""Pier_Sul""","1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r33,0,""Pier_SulP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r34,0,""Pier_Norte"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r35,0,""Pier_NorteP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r36,0,""Corpo_Central"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r37,0,""Corpo_CentralP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r38,0,""Check_in"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r39,0,""Check_inP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r40,0,""Terminal_1"""""",""1)â†’ # Realizado a ronda em todo 3Âº andar, os equipamentos se encontram operacionais. "
+
+1)â†’ # Realizado a ronda em todo 3Âº andar, os equipamentos se encontram operacionais. ","",1,c9
+r41,0,"""Terminal_1P""","Pendencia 1
+
+Pendencia 2
+","",1,c9
+r42,0,""Sala_VIP"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r43,0,""Sala_VIPP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r44,0,""CPD_Novo"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r45,0,""CPD_NovoP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r46,0,""SITA"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r47,0,""SITAP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r48,0,""VPNCCEE"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r49,0,""VPNCCEEP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r50,0,""VPNCEB"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r51,0,""VPNCEBP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r52,0,""Wifi"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r53,0,""WifiP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r54,0,""OutrosRonda"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+r55,0,""OutrosRondaP"""""",""Pendencia 1"
+
+Pendencia 2
+","",1,c9
+r56,0,""OutrosGeral"""""",""1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais."
+
+1)â†’ # Realizado a ronda e os equipamentos se encontram operacionais.
+","",1,c9
+### AUTOFILL SETTINGS ###,,,,,,
+advanced,[]"",,,,,"
+exceptions,"[]",,,,,
+textclips,"[]",,,,,
+variables,"[]",,,,,
+allhotkey,"",,,,,
+lastmod,"2025-05-17T09:50:53.998Z",,,,,
+spreadsheetname,"Lightning Autofill backup",,,,,
+spreadsheetid,"",,,,,
+importurl,"https://raw.githubusercontent.com/Dionessr/autofill-regras/refs/heads/main/regras.json",,,,,
+activecat,0,,,,,
+attributesoff,0,"",,,,
+autocomplete,0,":",,,,
+backup,0,"30",,,,
+badge,1,,,,,
+bisync,0,,,,,
+captchas,0,,,,,
+closeinfobar,1,"1",,,,
+debug,0,,,,,
+delay,0,"0.5",,,,
+devmodepopup,1,,,,,
+expirecats,0,,,,,
+filtercats,0,,,,,
+fluid,1,,,,,
+hidebackup,0,,,,,
+ietextbox,0,,,,,
+manual,0,,,,,
+mask,1,,,,,
+menu,1,"2",,,,
+overwrite,1,,,,,
+parselabels,0,,,,,
+randdelay,1,,,,,
+reveal,0,"0",,,,
+review,1,"1",,,,
+sitefilters,1,"0",,,,
+skiphidden,0,,,,,
+sound,0,,,,,
+theme,0,"0","","",,
+tooltips,1,,,,,
+turbo,0,,,,,
+vars,1,,,,,
